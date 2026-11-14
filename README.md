@@ -1,6 +1,6 @@
 ### Hi, I'm Kilian 👋
 
-Full-stack developer in Berlin with about five years of experience — TypeScript, Go and Python on the application side, AWS, Docker, Terraform and Ansible on the infrastructure side. I'm moving toward **pre-sales, solutions engineering and customer onboarding**: the part where software meets the people who use it.
+Full-stack developer in Berlin with about five years of experience — TypeScript, Go and Python on the application side, AWS, Docker, Terraform and Ansible on the infrastructure side.
 
 **What I've built**
 
